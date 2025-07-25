@@ -1,5 +1,5 @@
 # emacs-llm-tools
-Personal tools and docs for using LLMs and Agentic AI in Emacs
+Personal tools and docs for using LLMs and Agentic AI in Emacs. This repository is public domain, it's not that clever so just use it however you want.
 
 Some external tools I recommend:
 - gptel
@@ -39,3 +39,15 @@ This is an external tool. It's supposed to let you use mcp servers in Emacs, I d
 https://github.com/lizqwerscott/mcp.el
 
 https://github.com/modelcontextprotocol/servers
+
+## Copying
+
+[![CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+button][cc-zero-png]][cc-zero]
+
+[`COPYING`](COPYING): All the content within
+this repository is dedicated to the public domain under the [CC0 1.0 Universal
+(CC0 1.0) Public Domain Dedication][cc-zero].
+
+[cc-zero-png]: https://licensebuttons.net/l/zero/1.0/88x31.png "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication button"
+[cc-zero]: https://creativecommons.org/publicdomain/zero/1.0/
